@@ -1,0 +1,43 @@
+.banner > .banner-image{
+  width: 100%;
+  display: block;
+}
+
+#wrap {
+  width: 900px;
+  hieght:300px;
+  padding-top: 100px;
+  padding-left: 500px;
+  
+}
+
+.explore img {
+  border-radius:50%;
+  height:300px;
+  width:300px;
+  float:left;
+
+
+}
+
+.learn img{
+  border-radius:50%;
+  height:300px;
+  width:300px;
+  float:left;
+  /*transition: all 1s ease-in-out
+  -webkit-transition: all 1s ease-in-out;
+  -moz-transition: all 1s ease-in-out;
+  -o-transition: all 1s ease-in-out;*/
+ 
+}
+
+.observe img{
+  border-radius:50%;
+  height:300px;
+  width:300px;
+  float:right;
+
+}
+
+
